@@ -1,0 +1,33 @@
+/* Nesting o anidamiento */
+/* Equipo de expertos / historia */
+.container .justify-content-around {
+  background-color: antiquewhite;
+}
+
+/* Imagen Phone */
+.border-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+/* footer */
+.image .contactanos {
+  display: flex;
+  justify-content: center;
+}
+.image .imagen-rss {
+  background-color: antiquewhite;
+}
+.image .imagen-rss {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.image .imagen-rss img:hover {
+  transition: all 2s;
+  transform: scale(1.5);
+}
+
+/*# sourceMappingURL=style.css.map */
